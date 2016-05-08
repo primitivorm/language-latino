@@ -1,9 +1,8 @@
-Lenguaje latino soportado en Atom
-======
+#Lenguaje latino soportado en Atom
 
-Añade resaltado de sintaxis y fragmentos de código latino en Atom.
+Agrega resaltado de sintaxis y fragmentos de codigo latino en Atom.
 
-Fragmentos de código (snippets)
+Fragmentos de codigo (snippets)
 ---
 | Desencadenador | Nombre                                  | codigo                                          |
 |----------------|-----------------------------------------|-------------------------------------------------|
@@ -21,4 +20,4 @@ License
 ------
 Latino Atom Plugin se distribuye bajo la licencia MIT.
 
-####Cualquier aportación o sugerencia es bienvenida.
+####Cualquier aportacion o sugerencia es bienvenida.
