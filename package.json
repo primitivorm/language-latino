@@ -1,17 +1,20 @@
 {
   "name": "language-latino",
   "version": "0.1.0",
-  "author": "Primitivo Roman <primitivo.roman.montero@gmail.com>",
   "description": "Agrega resaltado de sintaxis y fragmentos de codigo latino en Atom.",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/primitivorm/language-latino.git"
+  },
+  "author": "Primitivo Roman <primitivo.roman.montero@gmail.com>",
   "keywords": [
     "language",
     "latino",
     "grammar"
   ],
-  "repository": "https://github.com/primitivorm/language-latino",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=0.50.0"
-  },
-  "dependencies": {}
+  "license": "MIT"
 }
