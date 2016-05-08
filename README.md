@@ -16,8 +16,8 @@ Fragmentos de codigo (snippets)
 | esc            | escribir                                | escribir("mensaje")                             |
 | inc            | incluir                                 | incluir "modulo"                                |
 
-License
-------
+Licencia
+---
 Latino Atom Plugin se distribuye bajo la licencia MIT.
 
 ####Cualquier aportacion o sugerencia es bienvenida.
