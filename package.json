@@ -1,6 +1,6 @@
 {
   "name": "language-latino",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Agrega resaltado de sintaxis y fragmentos de codigo latino en Atom.",
   "engines": {
     "atom": "*"
@@ -10,8 +10,8 @@
     "type": "git",
     "url": "https://github.com/primitivorm/language-latino.git"
   },
-  "bugs" : {
-    "url" : "https://github.com/primitivorm/language-latino/issues"
+  "bugs": {
+    "url": "https://github.com/primitivorm/language-latino/issues"
   },
   "keywords": [
     "language",
